@@ -1,2 +1,2 @@
 # Coursera_Capstone
-Th
+This is the Coursera Capstone project.
